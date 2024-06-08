@@ -1,5 +1,5 @@
 # archon-prototype (based off of plutarch-csa)
-Plutarch dev environment for EMURGO CSA
+Plutarch dev environment
 
 ### 1. **Install `nix`**
   - If you're setting up Nix on your system for the first time, try Determinate Systems' **[Zero-to-Nix](https://zero-to-nix.com)** in lieu of the official installer, as it provides an easier tool for **[installing](https://zero-to-nix.com/start/install)** and **[uninstalling](https://zero-to-nix.com/start/uninstall)** Nix.
