@@ -1,4 +1,4 @@
-# plutarch-csa
+# archon-prototype (based off of plutarch-csa)
 Plutarch dev environment for EMURGO CSA
 
 ### 1. **Install `nix`**
